@@ -1,0 +1,13 @@
+.git
+**/.git
+**/node_modules
+
+# build/run artifacts, regenerated inside the image
+out
+cache
+broadcast
+dist
+demo-state.json
+
+# keep the answers out of the image
+**/solutions
