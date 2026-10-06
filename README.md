@@ -271,23 +271,21 @@ Question 4 is the door into next week's RWA lab.
 
 ---
 ## My Submission
-> Student Name: Liang Shizhe
-
 > Email: u3684221@connect.hku.hk
 
 ### Repository Link
-[repo_link]https://github.com/Alex-yk/stablecoin-lab-2026
+[Alex-yk Github Repository Link](https://github.com/Alex-yk/stablecoin-lab-2026)
 
-### Ex3 Screenshot
-![Ex3 Screenshot](<Ex3 Screenshot.png>)
+### 1) Ex3 Screenshot - totalSupply() is much larger than totalCollateral()
+![Ex3 screenshot](<Ex3 Screenshot.png>)
 
 ---
-### Tier 2: Sepolia contract addresses + Etherscan links
-| Contract | Variable | Sepolia contract address | Etherscan Link |
+### 2) Tier 2: Sepolia contract addresses + Etherscan links
+| Contract | Variable | Sepolia Contract Address | Etherscan Link |
 | --- | --- | --- | --- |
-| MockUSDC.sol | USDC | `0x0eed7b2538532be0d27ac29E815A8B7335AB8B41` | https://sepolia.etherscan.io/address/0x0eed7b2538532be0d27ac29E815A8B7335AB8B41#code |
-| SimpleStablecoin.sol | SUSD | `0xB19f9C48Ded706e67f42b8784Cb472A6cd0f86Ea` | https://sepolia.etherscan.io/address/0xB19f9C48Ded706e67f42b8784Cb472A6cd0f86Ea#code |
-| Vault.sol | VAULT | `0x17fbD0BDD75B516404ceE0523EE32E7ea7567a60` | https://sepolia.etherscan.io/address/0x17fbD0BDD75B516404ceE0523EE32E7ea7567a60#code |
+| MockUSDC.sol | mUSDC | `0x0eed7b2538532be0d27ac29E815A8B7335AB8B41` | [View mUSDC Contract](https://sepolia.etherscan.io/address/0x0eed7b2538532be0d27ac29E815A8B7335AB8B41#code) |
+| SimpleStablecoin.sol | sUSD | `0xB19f9C48Ded706e67f42b8784Cb472A6cd0f86Ea` | [View sUSD Contract](https://sepolia.etherscan.io/address/0xB19f9C48Ded706e67f42b8784Cb472A6cd0f86Ea#code) |
+| Vault.sol | Vault | `0x17fbD0BDD75B516404ceE0523EE32E7ea7567a60` | [View Vault Contract](https://sepolia.etherscan.io/address/0x17fbD0BDD75B516404ceE0523EE32E7ea7567a60#code) |
 
 ### Architecture diagram
 ![architecture diagram](architecture-diagram.png)
